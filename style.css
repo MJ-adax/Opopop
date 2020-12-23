@@ -1,0 +1,158 @@
+#background {
+    background-color: #f69e76;
+}
+
+
+#top-inline {
+    display: inline-block;
+    width: 100%;
+    margin-left: 23%;
+    margin-top: 1%;
+}
+
+
+img {
+    width: 9%;
+}
+
+#top-button {
+    background-color: #f69e76; 
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 28%;
+    margin-bottom: 1%;
+}
+
+#core {
+    background-color: white;
+    width: 53%;
+    margin-left: 23%;
+    border-radius: 1%;
+}
+
+#title-core {
+    color: #ee8f6f;
+    font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+    font-size: x-large;
+    margin-left: 4%;
+    padding-top: 3%;
+}
+
+#grid {
+    display: grid;
+    height: 500px;
+  }
+  
+  #item1 {
+    background-color: #f9e5ca;
+    margin-left: 4%;
+    margin-right: 4%;
+    height: 65%;
+  }
+  
+  #item2 {
+    background-color: #a5cbb6;
+    margin-left: 4%;
+    margin-right: 4%;
+    height: 65%;
+    
+  }
+  
+  #item3 {
+    background-color: #fcd8c2;
+    margin-left: 4%;
+    margin-right: 4%;
+    height: 65%;
+    
+  }
+
+  .column1 {
+    float: left;
+    width: 70%;
+  }
+
+  .column2 {
+    float: right;
+    width: 30%;
+    background-color: #fdf5ea;
+    height: 100%;
+    
+  }
+
+  .title-item {
+    font-weight: bold;
+    color: black;
+    font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+    padding-left: 5%;
+  }
+
+  .info-item {
+    color: rgb(85, 83, 83);
+    font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+    margin-left: 5%;
+  }
+  
+  .state-item {
+    color: black;
+    font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+    text-align: center;
+    margin-top: 13%;
+  }
+  
+  .column3 {
+    float: left;
+    width: 70%;
+  }
+
+  .column4 {
+    float: right;
+    width: 30%;
+    background-color: #c9e1d4;
+    height: 100%;
+    
+  }
+
+  .column5 {
+    float: left;
+    width: 70%;
+  }
+
+  .column6 {
+    float: right;
+    width: 30%;
+    background-color: #fee8da;
+    height: 100%;
+    
+  }
+
+.question {
+  color: #86a796;
+  text-align: right;
+  font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+  margin-right: 4%;
+}
+
+.user-info {
+  text-align: right;
+  color: white;
+  font-family: 'Varela Round',Helvetica,Arial,Lucida,sans-serif;
+  margin-right: 24%;
+}
+
+#num-order {
+  background-color: white;
+  color: #e19e83;
+  font-weight: bold;
+  border-radius: 33%;
+  border: none;
+  margin-left: 28%;
+  position: absolute;
+  margin-top: -2%;
+}
